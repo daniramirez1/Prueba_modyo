@@ -188,5 +188,8 @@ textarea {
     align-items: center;
     flex-direction: column;
   }
+  .nombre_testimonio{
+    font-weight: 700;
+  }
   
   
